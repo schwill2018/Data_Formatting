@@ -1,3 +1,3 @@
-# Data_Formatting
+# Data Exploration & Formatting
 
-This file aims to highlight general Python and pandas applications during the inital ETL stage of data
+This File details the stages of data Extraction, Transformation, and Loading of a random ‘csv file’
